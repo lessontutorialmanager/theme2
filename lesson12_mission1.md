@@ -1,5 +1,3 @@
-https://minecraft.makecode.com/#tutorial:39930-73048-97379-51491
-
 # オリジナルゲームを作ろう！
 
 
